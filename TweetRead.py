@@ -7,7 +7,7 @@ import json
 
 
 # Set up your credentials
-consumer_key=''
+consumer_key='HelloWorld'
 consumer_secret=''
 access_token =''
 access_secret=''
